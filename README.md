@@ -11,3 +11,6 @@
 # Выбрать всех, кто из пересечени users и grades
 # Найти себя в базе по имени: SELECT*from users WHERE fam='Чмыхало'
 # Выбарать себя из users по фамилии
+
+
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/dddb3b01-a59a-49f0-9484-c7466bd21044" id="W3H92SnEHsI."></iframe></div>
