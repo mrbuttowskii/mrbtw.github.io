@@ -17,24 +17,24 @@
 
 
 <style>
-.button_1670297167872 {
+.button_1670297318143 {
     display: inline-block !important;
     text-decoration: none !important;
     background-color: #000000 !important;
-    color: #235366 !important;
-    border: 0px solid #006089 !important;
-    border-radius: 100px !important;
-    font-size: 100px !important;
-    padding: 100px 100px !important; 
+    color: #006089 !important;
+    border: 3px solid #2983a7 !important;
+    border-radius: 5px !important;
+    font-size: 50px !important;
+    padding: 15px 60px !important; 
     transition: all 0.8s ease !important;
 }
-.button_1670297167872:hover{
+.button_1670297318143:hover{
     text-decoration: none !important; 
     background-color: #006089 !important;
     color: #ffeded !important;
     border-color: #006089 !important;
 }
 </style>
-<a href="http://daruse.ru/generator-knopok-online" class="button_1670297167872" target="_blank">
+<a href="https://github.com/mrbuttowskii" class="button_1670297318143" target="_blank">
   mrbuttowski
 </a>
