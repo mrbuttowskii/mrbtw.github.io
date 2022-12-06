@@ -38,3 +38,13 @@
 <a href="https://github.com/mrbuttowskii" class="button_1670297318143" target="_blank">
   mrbuttowski
 </a>
+
+
+
+
+'''flowchart LR
+
+A[Hard] -->|Text| B(Round)
+B --> C{Decision}
+C -->|One| D[Result 1]
+C -->|Two| E[Result 2]'''
