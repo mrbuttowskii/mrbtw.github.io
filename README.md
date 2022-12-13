@@ -1,4 +1,6 @@
+
 ![28008](https://user-images.githubusercontent.com/114459378/207221027-fe517b1e-48c9-4d03-99ba-bf44d075e5d4.gif)
+
 # mrbuttowskii.github.io
 # Количество таблиц: SELECT COUNT(*) FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE'
 # Выбрать число из информационной схемы, где тип таблицы=базовая таблица
